@@ -10,15 +10,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/qrcodecomponent-using-html-and-css-NIRKR7lcZO)
+- Live Site URL: [Live Site](https://esther-omono.github.io/qr-code-component/)
 
-## My process
 
 ### Built with
 
@@ -26,10 +24,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Mobile-first workflow
 
+
 ### What I learned
 
 I learned how to use media query for different screen sizes. I also learned how make an image responsive.
-
 
 
 ### Continued development
