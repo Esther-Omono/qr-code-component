@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+    background: hsl(212, 45%, 89%);
+    font-size: 15px;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.qrCodeWrapper {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    margin: 40px auto;
+    width: 25%;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 90%;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.qrCodeText {
+    padding-top: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .qrCodeWrapper {
+        margin: 40px auto;
+        width: 80%;
+        height: 460px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .qrCodeWrapper {
+        margin: 40px auto;
+        width: 50%;
+        height: 550px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .qrCodeWrapper {
+        margin: 40px auto;
+        width: 50%;
+        height: 600px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .qrCodeWrapper {
+        margin: 40px auto;
+        width: 20%;
+        height: 500px;
+    }
+}
